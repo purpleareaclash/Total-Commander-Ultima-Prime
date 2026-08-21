@@ -1,0 +1,29 @@
+{
+  "repo": "total-commander-ultima-prime",
+  "product": "Total Commander Ultima Prime",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://total-commander.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "total-commander",
+    "file-manager",
+    "dual-panel",
+    "ftp-client",
+    "batch-rename",
+    "file-transfer",
+    "power-user-tools",
+    "file-explorer",
+    "total-commander-setup-failed-fix",
+    "how-to-install-total-commander",
+    "total-commander-windows",
+    "file-tools",
+    "windows-tools",
+    "productivity-utility"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "total-commander",
+  "nexpath_app_name": "Total Commander"
+}
